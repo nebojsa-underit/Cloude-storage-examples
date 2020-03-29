@@ -92,3 +92,4 @@ To create connection with storage account, we need to do next few steps:
 ![alt text](https://i.postimg.cc/76GhYBMK/Create-New-Blob-Container.png "Go to Micrsoft Auzre portal")
 
 
+### Setting up nodejs server for image upload using postman
