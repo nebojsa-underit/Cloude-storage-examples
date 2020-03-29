@@ -94,21 +94,16 @@ To create connection with storage account, we need to do next few steps:
 
 ### Setting up nodejs server for image upload using postman
 
-Open in code editor repository we cloned at beggining, using command propmt in folder azureBlobStorageUploader directory run command ```npm install ``` to install all project dependecies. 
-
+1. Open in code editor repository we cloned at beggining, using command propmt in folder azureBlobStorageUploader directory run command ```npm install ``` to install all project dependecies. 
 In it's base it is just simple NodeJS server with one route implemented  ```app.post("/documents", ... ```
 
-This route will be used to upload files to our storage account via Postman, but first we need to setup multer-azure-blob-storage-uploader.
-
+2. This route will be used to upload files to our storage account via Postman, but first we need to setup multer-azure-blob-storage-uploader.
 ![alt text](https://i.postimg.cc/mg9GD00z/Filling-Access-Infomration.png "Go to Micrsoft Auzre portal")
 
-Next step is setting up postman:
-
+3. Next step is setting up postman:
 ![alt text](https://i.postimg.cc/qBCfjfvm/Postman.png "Go to Micrsoft Auzre portal")
 
-Finally, we can see uploaded file in our storage explorer.
-
-
+4. Finally, we can see uploaded file in our storage explorer.
 ![alt text](https://i.postimg.cc/7hXSSsdS/Container-With-Picture.png "Go to Micrsoft Auzre portal")
 
 
