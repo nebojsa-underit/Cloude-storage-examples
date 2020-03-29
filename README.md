@@ -106,3 +106,10 @@ Next step is setting up postman:
 
 ![alt text](https://i.postimg.cc/qBCfjfvm/Postman.png "Go to Micrsoft Auzre portal")
 
+Finally, we can se uploaded file in our storage explorer.
+
+
+![alt text](https://i.postimg.cc/7hXSSsdS/Container-With-Picture.png "Go to Micrsoft Auzre portal")
+
+
+
