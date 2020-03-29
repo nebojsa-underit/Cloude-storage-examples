@@ -76,9 +76,11 @@ After download is finished, start setup and install storage explorer.
 To create connection with storage account, we need to do next few steps: 
 
 
-1. ![alt text](https://i.postimg.cc/vHg2zGqT/Click-On-Connection-Button.png "Go to Micrsoft Auzre portal")
+1. Open Storage explorer and click on connection button. 
+![alt text](https://i.postimg.cc/vHg2zGqT/Click-On-Connection-Button.png "Go to Micrsoft Auzre portal")
 
-2. ![alt text](https://i.postimg.cc/qRFXh3dL/Select-Connection-String.png "Go to Micrsoft Auzre portal")
+2. Select connection string as a connection method.
+![alt text](https://i.postimg.cc/qRFXh3dL/Select-Connection-String.png "Go to Micrsoft Auzre portal")
 
 3. Head for storage account dashbord and go to access keys.
 ![alt text](https://i.postimg.cc/52pP9jjP/Copy-Connection-String.png "Go to Micrsoft Auzre portal")
