@@ -66,7 +66,11 @@ If we have passed validation successfully, we can than create our first storage 
 ![alt text](https://i.postimg.cc/X7Qp70cj/Passed-Validation.png "Go to Micrsoft Auzre portal")
 
 
-### Downloading storage explorer
+### Downloading and setting up storage explorer
 
+
+Next we need to download storage explorer [here](https://azure.microsoft.com/en-ca/features/storage-explorer/).
+
+After download is finished, start setup and install storage explorer.
 
 
