@@ -13,6 +13,8 @@ Firstly, you need to create Micrsoft Azure account [here](https://azure.microsof
 After that we can begin setting up our bucket, where we will be uploading files.
 
 
-
 ![alt text](https://i.postimg.cc/pL5YRDL2/Go-To-Portal.png "Go to Micrsoft Auzre portal")
 
+On console search for "Storage accounts". Here we can see the look of Storage accounts console UI:
+
+![alt text](https://i.postimg.cc/q70tSntD/Storage-Account-Console.png "Go to Micrsoft Auzre portal")
