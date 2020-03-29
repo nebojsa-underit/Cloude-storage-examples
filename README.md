@@ -14,5 +14,5 @@ After that we can begin setting up our bucket, where we will be uploading files.
 
 
 
-![alt text](https://postimg.cc/K3N08hhv "Go to Micrsoft Auzre portal")
+![alt text](https://i.postimg.cc/G90VzbMY/Go-To-Portal.png "Go to Micrsoft Auzre portal")
 
