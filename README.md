@@ -73,4 +73,10 @@ Next we need to download storage explorer [here](https://azure.microsoft.com/en-
 
 After download is finished, start setup and install storage explorer.
 
+To create connection with storage account, we need to do next few steps: 
+
+
+1. ![alt text](https://i.postimg.cc/vHg2zGqT/Click-On-Connection-Button.png "Go to Micrsoft Auzre portal")
+
+2. ![alt text](https://i.postimg.cc/qRFXh3dL/Select-Connection-String.png "Go to Micrsoft Auzre portal")
 
