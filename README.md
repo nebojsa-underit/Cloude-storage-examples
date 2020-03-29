@@ -94,4 +94,9 @@ To create connection with storage account, we need to do next few steps:
 
 ### Setting up nodejs server for image upload using postman
 
-Open project we cloned in code editor. It is just simple NodeJS server with one route set "/document"
+Open in code editor repository we cloned at beggining, using command propmt in folder azureBlobStorageUploader directory run command ```npm install ``` to install all project dependecies. 
+
+In it's base it is just simple NodeJS server with one route implemented  ```app.post("/documents", ... ```
+
+This route will be used to upload files to our storage account via Postman.
+
