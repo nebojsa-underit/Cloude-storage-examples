@@ -102,3 +102,7 @@ This route will be used to upload files to our storage account via Postman, but 
 
 ![alt text](https://i.postimg.cc/mg9GD00z/Filling-Access-Infomration.png "Go to Micrsoft Auzre portal")
 
+Next step is setting up postman:
+
+![alt text](https://i.postimg.cc/qBCfjfvm/Postman.png "Go to Micrsoft Auzre portal")
+
