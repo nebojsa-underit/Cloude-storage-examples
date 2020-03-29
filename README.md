@@ -80,3 +80,6 @@ To create connection with storage account, we need to do next few steps:
 
 2. ![alt text](https://i.postimg.cc/qRFXh3dL/Select-Connection-String.png "Go to Micrsoft Auzre portal")
 
+3. Head for storage account dashbord and go to access keys.
+![alt text](https://i.postimg.cc/52pP9jjP/Copy-Connection-String.png "Go to Micrsoft Auzre portal")
+
