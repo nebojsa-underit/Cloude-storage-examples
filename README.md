@@ -98,5 +98,7 @@ Open in code editor repository we cloned at beggining, using command propmt in f
 
 In it's base it is just simple NodeJS server with one route implemented  ```app.post("/documents", ... ```
 
-This route will be used to upload files to our storage account via Postman.
+This route will be used to upload files to our storage account via Postman, but first we need to setup multer-azure-blob-storage-uploader.
+
+![alt text](https://i.postimg.cc/mg9GD00z/Filling-Access-Infomration.png "Go to Micrsoft Auzre portal")
 
