@@ -66,7 +66,7 @@ If we have passed validation successfully, we can than create our first storage 
 ![alt text](https://i.postimg.cc/X7Qp70cj/Passed-Validation.png "Go to Micrsoft Auzre portal")
 
 
-###Downloading storage explorer
+### Downloading storage explorer
 
 
 
