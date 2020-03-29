@@ -7,7 +7,7 @@ To copy project to your local machine, go to wanted location, open cmd and paste
 
 ## Uploading file to Azure blob storage
 
-###Creating Azure and storage account
+### Creating Azure and storage account
 
 Firstly, you need to create Micrsoft Azure account [here](https://azure.microsoft.com/en-us/).
 
