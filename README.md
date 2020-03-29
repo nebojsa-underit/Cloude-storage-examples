@@ -85,3 +85,10 @@ To create connection with storage account, we need to do next few steps:
 3. Head for storage account dashbord and go to access keys.
 ![alt text](https://i.postimg.cc/52pP9jjP/Copy-Connection-String.png "Go to Micrsoft Auzre portal")
 
+4. Fill the required feilds in, display name and connection string.
+![alt text](https://i.postimg.cc/Sj0yskNs/Attach-With-Connection-String.png "Go to Micrsoft Auzre portal")
+
+5. After creating connection, we need to create new container (name it 'assets').
+![alt text](https://i.postimg.cc/76GhYBMK/Create-New-Blob-Container.png "Go to Micrsoft Auzre portal")
+
+
