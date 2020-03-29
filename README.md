@@ -93,3 +93,5 @@ To create connection with storage account, we need to do next few steps:
 
 
 ### Setting up nodejs server for image upload using postman
+
+Open project we cloned in code editor. It is just simple NodeJS server with one route set "/document"
